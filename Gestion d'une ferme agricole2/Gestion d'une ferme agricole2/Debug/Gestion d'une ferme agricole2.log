@@ -1,0 +1,4 @@
+﻿  gestionmain.cpp
+c:\users\pc\source\repos\gestion d'une ferme agricole2\gestion d'une ferme agricole2\gestionmain.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  Gestion d'une ferme agricole2.vcxproj -> C:\Users\pc\source\repos\Gestion d'une ferme agricole2\Debug\Gestion d'une ferme agricole2.exe
+  Gestion d'une ferme agricole2.vcxproj -> C:\Users\pc\source\repos\Gestion d'une ferme agricole2\Debug\Gestion d'une ferme agricole2.pdb (Partial PDB)
